@@ -13,3 +13,6 @@ go here: https://www.rstudio.com/products/rstudio/download/, choose the desktop 
 # Using Github
 1. Create account at github.com
 2. Download the desktop client at https://desktop.github.com/
+
+# Archived ggplot
+If ggplot2 doesn't work for you: https://cran.r-project.org/src/contrib/Archive/ggplot2/
